@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+    <types>
+        <members>FeedItemTriggerHandler</members>
+       <members>FeedCommentTriggerHandler</members>
+        <name>ApexClass</name>
+    </types>
+    <types>
+        <members>Community_Feed_Approval_Activity__c</members>
+        <name>CustomObject</name>
+    </types>
+    <types>
+        <members>FeedItemTrigger</members>
+        <members>FeedCommentTrigger</members>
+        <name>ApexTrigger</name>
+    </types>
+    <version>54.0</version>
+</Package>
